@@ -70,7 +70,7 @@ public class MainActivity extends FragmentActivity {
         }
 
         // Adding new item to the ArrayList
-        markerPoints.add(point);
+       // markerPoints.add(point);
 
         // Creating MarkerOptions
         MarkerOptions options = new MarkerOptions();
